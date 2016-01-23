@@ -1,7 +1,6 @@
 ## DoxygenToolkit for VIM
 This plugin was originally created by Mathias Lorente and is available
-[here][1]. I put it on here to be easily usable as a git submodule
-for [my vim configuration][2].
+[here][1].
 
 ### Configuration
 Some configuration options can be set in your `~/.vimrc`.
@@ -18,4 +17,3 @@ Some configuration options can be set in your `~/.vimrc`.
 Mathias Lorente for this script.
 
 [1]: http://www.vim.org/scripts/script.php?script_id=987
-[2]: http://github.com/mrtazz/vimfiles
